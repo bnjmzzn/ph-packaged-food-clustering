@@ -1,0 +1,8 @@
+# .gitignore
+.venv/
+
+data/
+*.parquet
+
+*.env
+!.env.example
